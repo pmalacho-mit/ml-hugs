@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = https://gitlab.inria.fr/bkerbl/simple-knn.git
+	branch = main
+	commit = 86710c2d4b46680c02301765dd79e465819c8f19
+	parent = 3687dc9f3048879ab1c6f3a384a2003af420d791
+	method = merge
+	cmdver = 0.4.9
